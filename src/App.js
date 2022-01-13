@@ -9,6 +9,9 @@ function App() {
         <p>
           Deploy <code>creat-react-app</code> here on Vercel.
         </p>
+        <p>
+          Introducing another feature to see how Vercel deploys feature branches
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
